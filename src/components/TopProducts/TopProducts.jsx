@@ -40,7 +40,7 @@ const TopProducts = ({ handleOrderPopup }) => {
             Best Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Discover The Perfect Apple Accessories For The Smooth Running Of Your Daily Activities
+            "Discover The Perfect Apple Accessories For The Smooth Running Of Your Daily Activities"
           </p>
         </div>
         {/* Body section */}

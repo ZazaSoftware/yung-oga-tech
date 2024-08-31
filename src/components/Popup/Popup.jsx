@@ -11,7 +11,9 @@ const Popup = ({ orderPopup, setOrderPopup }) => {
               {/* header */}
               <div className="flex items-center justify-between">
                 <div>
+                  <a href="https://wa.me/+2348064964670">
                   <h1>Order Now</h1>
+                  </a>
                 </div>
                 <div>
                   <IoCloseOutline
