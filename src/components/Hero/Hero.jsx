@@ -74,13 +74,13 @@ const Hero = ({ handleOrderPopup }) => {
                     data-aos="fade-up"
                     data-aos-duration="500"
                     data-aos-delay="300"
-                  ><a href="https://wa.me/+2348064964670">
+                  >
                     <button
                       onClick={handleOrderPopup}
                       className="bg-gradient-to-r from-primary to-secondary hover:scale-105 duration-200 text-white py-2 px-4 rounded-full"
                     >
                       Order Now
-                    </button></a>
+                    </button>
                   </div>
                 </div>
                 {/* image section */}
