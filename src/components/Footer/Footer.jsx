@@ -19,7 +19,7 @@ const BannerImg = {
   width: "100%",
 };
 
-const FooterLinks = [
+const FooterLinks  = [
   {
     title: "Home",
     link: "/#",
